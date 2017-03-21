@@ -1,2 +1,0 @@
-; Test
-global _start
